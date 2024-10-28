@@ -1,0 +1,13 @@
+pandas
+openpyxl 
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+python-dotenv
+langchain-openai
+openai
+fastapi
+uvicorn
+pydantic

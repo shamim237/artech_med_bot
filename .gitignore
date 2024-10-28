@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+.env
+*.env
+chatbot/
+processed_data/
+src/
+vectors_data/
+logs/
