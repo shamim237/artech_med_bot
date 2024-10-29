@@ -5,7 +5,7 @@ Develop a simple question-answering web service that leverages Retrieval-Augment
 
 1. Clone or download this repository
 ```
-git clone https://github.com/shamim237/med_bot.git
+git clone https://github.com/shamim237/artech_med_bot.git
 ```
 2. Create a virtual environment (optional but recommended):
 
